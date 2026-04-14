@@ -1,7 +1,3 @@
-Here’s a more concise version of your project write‑up, keeping the essentials intact:
-
----
-
 # MRI Reconstruction: CS + Deep Learning (MATLAB)
 
 ## 📌 Overview
